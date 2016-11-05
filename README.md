@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+The first repository
+
+It is just a strange text file, nothing more.
